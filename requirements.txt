@@ -1,0 +1,4 @@
+cmake
+gym[atari]
+scipy
+pygame
